@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "'"
+version = "0.1.0"
+description = ""
+authors = ["abehl"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+aiohttp = "3.9.0b0"
+pyautogen = "^0.1.14"
+openai = "^0.28.1"
+langchain = "^0.0.327"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

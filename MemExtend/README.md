@@ -1,0 +1,1 @@
+# MemExtend is a utility that extends the context window and memory capabilities of LLMs using "Sparse Priming Representations"
