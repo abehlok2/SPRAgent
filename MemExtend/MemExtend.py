@@ -28,7 +28,7 @@ gpt4 = {
 
 config_list = [
         {
-            "model": model,
+            "model": "gpt-4",
             "api_key": os.environ["OPENAI_API_KEY"],
             "temperature": 0,
             "request_timeout": 300,
